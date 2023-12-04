@@ -2,7 +2,7 @@
 
 betikler : Ubuntu işletim sistemleri ve dağıtımları için betik deposudur
 
-* SSH Bağlantısını bir Python betiğiyle incelemek için açılan dizindir.
+* SSH Bağlantısını bir Python, Perl, Ruby veya başka bir programlama dilindeki betiğiyle incelemek için açılan dizindir.
 
 # License
 
