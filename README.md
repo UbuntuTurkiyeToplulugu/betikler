@@ -1,6 +1,8 @@
 # betikler
 
-betikler : Ubuntu işletim sistemleri ve dağıtımları için betik deposudur
+betikler : Ubuntu işletim sistemleri ve dağıtımları için betik deposudur.
+
+Tüm git forge ortamları için https://forum.ubuntu.org.tr/index.php?topic=1.0 adresine bakabilirsiniz.
 
 # License
 
